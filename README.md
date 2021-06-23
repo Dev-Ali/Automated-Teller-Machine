@@ -20,7 +20,7 @@
  
  - Just clone this repository 
  ```
- $ git clone https://github.com/Dev-Ali/Automated-Teller-Machine
+ $ git clone https://github.com/Dev-Ali/Automated-Teller-Machine.git
  ```
  
  - Head over to the cloned folder and run `ATM.py`
